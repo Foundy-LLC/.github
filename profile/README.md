@@ -1,12 +1,24 @@
-## Hi there 👋
+# 2023 한성대학교 컴퓨터공학부 캡스톤디자인
 
-<!--
+## 팀명 : 애플주주
+## 팀원 : 김민성(팀장), 권대현, 김건우, 정시현
+## 프로젝트명 : 공부하는 농부
+## 주제 : 캠스터디
+## 개요
+- 코로나 19 이후 비대면 서비스가 각광을 받았다. 이에 따라 함께 떠오른 서비스가 캠 스터디 서비스이다. 캠 스터디는 시간, 공간에 제약 받지 않고 캠을 켜고 공부하는 모습을 실시간으로 공유하며 몰입할 수 있도록 도와주는 서비스이다. 대표적인 서비스인 “구루미”의 경우 40 만명의 사용자를 보유하고 있다.
+기존 캠 스터디 서비스는 캠을 켜고 같이 공부하는 느낌을 주어 몰입도를 높여주었다. 하지만 꾸준히 공부할 수 있는 동기부여가 부족했다. 우리의 서비스는 작물을 기르는 게임적 요소를 추가하여 사용자가 꾸준함을 유지할 수 있는 동기부여를 제공할 것이다.
+또한 기존 서비스는 회원들 본인과 유사한 관심 분야를 가진 사람들이 있는 공부방을 찾기 어려웠다. 우리 서비스는 AI 를 이용하여 공부방 추천 시스템을 개발하여 해당 문제를 해결할 것이다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 관련 링크
+### 공부하는 농부 웹
+https://github.com/Foundy-LLC/camstudy-web
+### 공부하는 농부 모바일(안드로이드)
+https://github.com/Foundy-LLC/camstudy-android
+### 공부하는 농부 webRTC 서버
+https://github.com/Foundy-LLC/camstudy-webrtc-server
+### 공부하는 농부 webRTC Router
+https://github.com/Foundy-LLC/camstudy-webrtc-router
+### 공부하는 농부 추천 시스템 서버
+https://github.com/Foundy-LLC/recommend-server
