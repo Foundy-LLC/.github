@@ -3,6 +3,8 @@
 
 > 프로젝트명 : **공부하는 농부**
 >
+> 팀명 : **애플주주**
+>
 > 주제 : **비대면 캠스터디 플랫폼**
 
 ### 🚀 개요 
@@ -37,8 +39,8 @@
 >
 > **모바일(안드로이드)** : [https://github.com/Foundy-LLC/camstudy-android](https://github.com/Foundy-LLC/camstudy-android)
 >
->  **webRTC 서버** : [https://github.com/Foundy-LLC/camstudy-webrtc-server](https://github.com/Foundy-LLC/camstudy-webrtc-server)
+> **미디어 서버** : [https://github.com/Foundy-LLC/camstudy-webrtc-server](https://github.com/Foundy-LLC/camstudy-webrtc-server)
 > 
-> **webRTC Router** : [https://github.com/Foundy-LLC/camstudy-webrtc-router](https://github.com/Foundy-LLC/camstudy-webrtc-router)
+> **미디어 라우팅 서버** : [https://github.com/Foundy-LLC/camstudy-webrtc-router](https://github.com/Foundy-LLC/camstudy-webrtc-router)
 > 
 > **추천 시스템 서버** : [https://github.com/Foundy-LLC/recommend-server](https://github.com/Foundy-LLC/recommend-server)
