@@ -16,11 +16,10 @@
 
 ### 🎮 Members
 
-김민성|권대현|김건우|정시현|
+[김민성](https://github.com/jja08111)|[권대현](https://github.com/antonio-990510)|[김건우](https://github.com/kgunwoo26)|[정시현](https://github.com/jungsiroo)|
 |:-:|:-:|:-:|:-:|
 <img src='https://avatars.githubusercontent.com/u/57604817?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/83750244?v=4' height=80  width=80px></img>|<img src='https://avatars.githubusercontent.com/u/55626702?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/54366260?v=4' height=80  width=80px></img>|
 앱 & 미디어 서버 | 프론트엔드(Next.js) | 프론트엔드(Next.js) | 랭킹 알고리즘 & 추천 | 
-[Github Link](https://github.com/jja08111)|[Github Link](https://github.com/antonio-990510)|[Github Link](https://github.com/kgunwoo26)|[Github Link](https://github.com/jungsiroo)|
 
 
 <br>
